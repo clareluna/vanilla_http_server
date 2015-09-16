@@ -1,0 +1,25 @@
+{
+  "name": "http_and_tcp_servers",
+  "version": "0.1.0",
+  "description": "homework JSDA5",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test",
+    "start": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clareluna/http_and_tcp_servers"
+  },
+  "author": "clarelunamonahan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clareluna/http_and_tcp_servers"
+  },
+  "homepage": "https://github.com/clareluna/http_and_tcp_servers",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0",
+    "mocha": "^2.3.2"
+  }
+}
